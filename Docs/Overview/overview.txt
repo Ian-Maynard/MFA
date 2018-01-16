@@ -1,0 +1,34 @@
+Overview 
+--------
+
+The goal is to provvide the following services for Mountain Family Arts. 
+
+a. Revamp and standardise across multiple platforms the
+   graphical personality of the Mountain Family Arts group 
+
+b. To create a Web presence which will serve as the hub for all business activity 
+
+c. To create a Production Scheduling System for the items produced and shipping of orders
+
+d. To install and adapt an off the shelf CRM system 
+
+e. To codify and accurately describe the items produced by MFA such that they 
+   work with the systems described above
+
+f. To adapt and or design the systems described above such that they work as an 
+   a fully integrated whole. 
+
+
+Phases 
+
+Phase 1
+-------
+
+Revamp - Website - create integrated consistent digital identity.
+Propagate that identity across multiple social media outlets.
+Create the means in the CRM program to echo messages and campaigns 
+across the sites identified.
+
+
+ 
+
